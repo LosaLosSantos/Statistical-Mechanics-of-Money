@@ -21,7 +21,13 @@ In a closed economic system, money is conserved, similar to energy in a physical
 - **Taxation and Subsidies**: Examines the effect of taxation on the system's temperature and money distribution.
 
 ## Requirements
-
 - Python 3.7 or higher
 - NumPy
 - Matplotlib
+
+pip install -r requirements.txt
+
+
+## References
+Drăgulescu, A., & Yakovenko, V. M. (2000). Statistical mechanics of money
+Original simulation methods inspired by statistical mechanics principles.
